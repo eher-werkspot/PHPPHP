@@ -1,4 +1,5 @@
 {
+    "name": "ircmaxell/phpphp",
     "repositories": [
         {
             "type": "package",
