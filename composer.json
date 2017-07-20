@@ -1,5 +1,4 @@
 {
-    "name": "ircmaxell/phpphp",
     "repositories": [
         {
             "type": "package",
@@ -16,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "nikic/php-parser": "0.9.*"
+        "nikic/php-parser": "dev-master"
     },
     "require-dev": {
         "php/php-src": "dev-master"
